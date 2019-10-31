@@ -5,7 +5,7 @@ node {
   }
 
   stage("finish"){
-    sh "echo finish123"
+    sh "echo finish1213"
   }
  
 }
